@@ -1,1 +1,2 @@
 this is file 4
+line 3 for file 4
