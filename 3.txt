@@ -3,3 +3,4 @@ line 2 in file 3
 line 3 in file 3
 line 4 in file 3
 line 5 in file 3
+line 7 in file 3
